@@ -1,7 +1,7 @@
 
 # from os import error
 import numpy as np
-from satck import Stack, Utility
+from stack import Stack, Utility
 import pandas as pd
 
 parenthesis = { '{': '}',
