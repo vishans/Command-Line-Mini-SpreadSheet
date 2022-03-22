@@ -1,8 +1,5 @@
-
-# from os import error
-import numpy as np
 from stack import Stack, Utility
-import pandas as pd
+
 
 parenthesis = { '{': '}',
                 '[': ']',
