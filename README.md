@@ -7,7 +7,7 @@ There is no other dependencies needed.<br/>
 You have to be on a Windows machine and have Python >=3.8
 
 ## Motivation
-I was studying **compiler design** and how stacks are used to expression.<br/>
+I was studying **compiler design** and how stacks are used to evaluate expression.<br/>
 So I thought a speadsheet program would be a neat little project to build my own expression evaluator.<br/>
 Everything is implemented from scratch: the parser, postfix covertor to the spreadsheet core.
 
