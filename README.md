@@ -2,7 +2,7 @@
 Simple command line based spreadsheet built with Python for Windows. 
 
 ## I try to make it pretty and light
-This is built around **ANSI Color Codes** for output. **A terminal that supports this is needed**.<br/>
+This is built around **ANSI escape sequences** for output. **A terminal that supports ANSI color escape sequences is needed**.<br/>
 There is no other dependencies needed.<br/>
 You have to be on a Windows machine and have Python >=3.8
 
