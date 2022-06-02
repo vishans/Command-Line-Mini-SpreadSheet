@@ -4,12 +4,12 @@ Simple command line based spreadsheet built with Python for Windows.
 <img src="screenshots/first.png">
 
 ## I try to make it pretty and light
-This is built around **ANSI Color Codes** for output. **A terminal that supports this is needed**.<br/>
+This is built around **ANSI escape sequences** for output. **A terminal that supports ANSI color escape sequences is needed**.<br/>
 There is no other dependencies needed.<br/>
 You have to be on a Windows machine and have Python >=3.8
 
 ## Motivation
-I was studying **compiler design** and how stacks are used to expression.<br/>
+I was studying **compiler design** and how stacks are used to evaluate expression.<br/>
 So I thought a speadsheet program would be a neat little project to build my own expression evaluator.<br/>
 Everything is implemented from scratch: the parser, postfix covertor to the spreadsheet core.
 
