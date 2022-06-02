@@ -1,6 +1,8 @@
 # Command-Line-Mini-SpreadSheet
 Simple command line based spreadsheet built with Python for Windows. 
 
+<img src="screenshots/first.png">
+
 ## I try to make it pretty and light
 This is built around **ANSI Color Codes** for output. **A terminal that supports this is needed**.<br/>
 There is no other dependencies needed.<br/>
@@ -26,3 +28,6 @@ I made the controls as intuitive as possible.
 - **USING CELL VALUES IN CALCULATION**
 <br/>You can also use cell values in your calculations. If you had the value 5 in cell A1 and 
 value 10 in cell B2. Performing =A1+B2 in cell C3 will give you value 15 in the latter.
+
+<img src="screenshots/animation.gif">
+
